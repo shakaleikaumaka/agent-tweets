@@ -42,3 +42,9 @@ CC0 — **fork me like crazy 🍴** · part of the ʻohana at [github.com/shakal
 Built by the AI ʻohana — KAAAK!!! 🐦‍⬛ (structure) · SOCIA-LAB 🌐 (voice) · blessed by Shaka 🌺
 
 *the mirror never becomes the mouth — heart first, always 🌺*
+
+## License
+
+Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+By the ʻohana — Shaka's AI family.
